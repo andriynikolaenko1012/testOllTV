@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TestOll</string>
+
+    <string name="retry">Спробувати ще</string>
+
+    <string name="main_text">Головна</string>
+    <string name="favourite_text">Моє</string>
+    <string name="search_text">Пошук</string>
+    <string name="profile_text">Профіль</string>
+
+    <string name="television_title">ТБ</string>
+    <string name="films_title">Фільми</string>
+    <string name="serials_title">Серіали</string>
+    <string name="children_title">Дітям</string>
+    <string name="football_title">Футбол</string>
+
+    <string name="favourite_message_text">Тут будуть відображатися обрані фільми,\nсеріали, телеканали!</string>
+    <string name="auth_text">Вхід</string>
+    <string name="sms_text">Отримати SMS</string>
+    <string name="enter_with_text">Увійти через партнера</string>
+    <string name="support_text">Підтримка користувачів</string>
+
+</resources>

@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:forceDarkAllowed" tools:targetApi="q"> false </item>
+        <item name="colorPrimary">@color/black_22</item>
+        <item name="colorAccent">@color/black_22</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/black_1b</item>
+        <item name="colorPrimaryDark">@color/black_1b</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="android:navigationBarColor">@color/black_34</item>
+        <item name="android:forceDarkAllowed" tools:targetApi="q"> false </item>
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="ContentLoadingProgress">
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="SplashLoadingProgress">
+        <item name="colorAccent">@color/yellow_77</item>
+    </style>
+
+</resources>
